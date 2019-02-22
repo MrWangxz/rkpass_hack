@@ -1,0 +1,2 @@
+# rkpass_hack
+基于Tempermonkey的脚本，通过注入修改，绕过软考网会员验证查看选择题和阅读题答案
