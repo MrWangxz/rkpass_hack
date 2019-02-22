@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         软考在线
+// @name         rkpass_hack
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
