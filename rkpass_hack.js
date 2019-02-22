@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         rkpass_hack
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       Sincky
 // @match        http://www.rkpass.cn/tk_timu/*xuanze.html
