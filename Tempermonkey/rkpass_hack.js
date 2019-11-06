@@ -6,6 +6,7 @@
 // @author       Sincky
 // @match        http://www.rkpass.cn/tk_timu/*xuanze.html
 // @match        http://www.rkpass.cn/tk_timu/*anli.html
+// @match        http://www.rkpass.cn/tk_timu/*lunwen.html
 // @require      http://code.jquery.com/jquery-1.8.0.min.js
 // @grant        none
 // ==/UserScript==
