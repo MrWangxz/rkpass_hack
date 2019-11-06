@@ -1,5 +1,5 @@
 # rkpass_hack
-基于JS脚本，通过Tempermonkey或Chrome插件注入修改，绕过验证查看选择题和阅读题答案
+基于JS脚本，通过Tempermonkey或Chrome插件注入修改[软考网]( http://www.rkpass.cn/ )，绕过验证会员，直接查看选择题和阅读题答案
 
 此脚本未发布到油猴和chrome商店上，需要自行安装。
 
